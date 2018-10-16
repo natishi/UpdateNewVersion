@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\UpdateNewVersion\bin\Release\UpdateNewVersion.dll
+C:\Users\user\Desktop\UpdateNewVersion\bin\Release\UpdateNewVersion.pdb
+C:\Users\user\Desktop\UpdateNewVersion\obj\Release\UpdateNewVersion.dll
+C:\Users\user\Desktop\UpdateNewVersion\obj\Release\UpdateNewVersion.pdb
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\bin\Release\UpdateNewVersion.dll
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\bin\Release\UpdateNewVersion.pdb
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\obj\Release\UpdateNewVersion.dll
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\obj\Release\UpdateNewVersion.pdb

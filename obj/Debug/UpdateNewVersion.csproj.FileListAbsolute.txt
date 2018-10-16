@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\UpdateNewVersion\bin\Debug\UpdateNewVersion.dll
+C:\Users\user\Desktop\UpdateNewVersion\bin\Debug\UpdateNewVersion.pdb
+C:\Users\user\Desktop\UpdateNewVersion\obj\Debug\UpdateNewVersion.dll
+C:\Users\user\Desktop\UpdateNewVersion\obj\Debug\UpdateNewVersion.pdb
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\bin\Debug\UpdateNewVersion.dll
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\bin\Debug\UpdateNewVersion.pdb
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\obj\Debug\UpdateNewVersion.dll
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\obj\Debug\UpdateNewVersion.pdb
+C:\Users\NetanelShimoni\Documents\Visual Studio 2015\Projects\UpdateNewVersion\obj\Debug\UpdateNewVersion.csprojResolveAssemblyReference.cache
